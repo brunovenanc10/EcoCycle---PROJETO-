@@ -1,2 +1,2 @@
-# EcoCycle---PROJETO-
+# java-projeto-EcoCycle
 Projeto sobre  Sustentabilidade Ambiental
